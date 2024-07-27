@@ -1,2 +1,2 @@
 # Hotel-Management-System
-this project developed using c++ 
+this project developed using c++.
